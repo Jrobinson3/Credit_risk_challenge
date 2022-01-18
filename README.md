@@ -11,9 +11,9 @@ Your credit_risk_resampling.ipynb file; https://github.com/Jrobinson3/Credit_ris
 Your credit_risk_ensemble.ipynb file; https://github.com/Jrobinson3/Credit_risk_challenge/blob/main/credit_risk_ensemble.ipynb
 
 ## Written Analysis
-1. Overview of the analysis: Explain the purpose of this analysis.
+##1. Overview of the analysis: Explain the purpose of this analysis.
 The purpose of this analysis is to predict credit risk through various machine learning models to see which model has a best performance.     
-2. Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+##2. Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
  ## Random oversampler summary
 ![image](https://github.com/Jrobinson3/Credit_risk_challenge/blob/main/Oversampling%20summary.png)
@@ -50,6 +50,6 @@ The purpose of this analysis is to predict credit risk through various machine l
 1) the balanced accuracy score is 65.85% and it is considered medium.
 2) the precision for prediction of fraudulent transaction is 3% and still low, however sensitivity (recall) for prediction of non-fraudulent activity is 66% and it is medium-high. 
   
-4. Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+##3. Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 All of machine learning models performed above are not good to use or recommend since accuracy is not high enough nor sensitivity score is not low enough to be safe.  I would do additional procedure or seek another machine learning model to recommend.  
 
