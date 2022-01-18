@@ -21,32 +21,32 @@ The purpose of this analysis is to predict credit risk through various machine l
 2) the precision for prediction of fraudulent transaction is 1% and very low, however sensitivity (recall) for prediction of fraudulent activity is 45% and it is medium.   
 
  ## Undersampling summary
-![image]https://github.com/Jrobinson3/Credit_risk_challenge/blob/main/undersample.png
+![image](https://github.com/Jrobinson3/Credit_risk_challenge/blob/main/undersample.png)
 1) the balanced accuracy score is 53.32% and it is considered low.
 2) the precision for prediction of fraudulent transaction is 1% and very low, however sensitivity (recall) for prediction of fraudulent activity is 53% and it is medium.   
 
  ## SMOTE summary
-![image]https://github.com/Jrobinson3/Credit_risk_challenge/blob/main/SMOTE%20summary.png
+![image](https://github.com/Jrobinson3/Credit_risk_challenge/blob/main/SMOTE%20summary.png)
 1) the balanced accuracy score is 64.62% and it is considered low.
 2)the precision for prediction of fraudulent transaction is 1% and very low, however sensitivity (recall) for prediction of fraudulent activity is 56% and it is medium.  
 
  ## Combination summary
-![image]https://github.com/Jrobinson3/Credit_risk_challenge/blob/main/combination.png
+![image](https://github.com/Jrobinson3/Credit_risk_challenge/blob/main/combination.png)
 1) the balanced accuracy score is 65.44% and it is considered medium.
 2) the precision for prediction of fraudulent transaction is 1% and very low, however sensitivity (recall) for prediction of fraudulent activity is 73% and it is high.   
 
  ## Forest Classifier summary
-![image]https://github.com/Jrobinson3/Credit_risk_challenge/blob/main/randomforest.png
+![image](https://github.com/Jrobinson3/Credit_risk_challenge/blob/main/randomforest.png)
 1) the balanced accuracy score is 77.26% and it is considered medium-high.
 2) the precision for prediction of fraudulent transaction is 3% and still low, however sensitivity (recall) for prediction of fraudulent activity is 66% and it is medium-high.
 
 # Random oversampler summary
-https://github.com/Jrobinson3/Credit_risk_challenge/blob/main/Oversampling%20summary.png
+![image](https://github.com/Jrobinson3/Credit_risk_challenge/blob/main/Oversampling%20summary.png)
 1) the balanced accuracy score is 57.40% and it is considered low.
 2) the precision for prediction of fraudulent transaction is 1% and very low, however sensitivity (recall) for prediction of fraudulent activity is 45% and it is medium.   
    
  ## AdaClassifier summary
-https://github.com/Jrobinson3/Credit_risk_challenge/blob/main/adaclassifier.png
+![image](https://github.com/Jrobinson3/Credit_risk_challenge/blob/main/adaclassifier.png)
 1) the balanced accuracy score is 65.85% and it is considered medium.
 2) the precision for prediction of fraudulent transaction is 3% and still low, however sensitivity (recall) for prediction of non-fraudulent activity is 66% and it is medium-high. 
   
