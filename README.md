@@ -51,5 +51,5 @@ The purpose of this analysis is to predict credit risk through various machine l
 2) the precision for prediction of fraudulent transaction is 3% and still low, however sensitivity (recall) for prediction of non-fraudulent activity is 66% and it is medium-high. 
   
 ##3. Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
-All of machine learning models performed above are not good to use or recommend since accuracy is not high enough nor sensitivity score is not low enough to be safe.  I would do additional procedure or seek another machine learning model to recommend.  
+All of machine learning models performed above are not good to use or recommend since accuracy is not high enough nor sensitivity score is not low enough to be effective prediction for the fraudulent transactions.  I would do additional procedure or seek another machine learning model to recommend.  
 
