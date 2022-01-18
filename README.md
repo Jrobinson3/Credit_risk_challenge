@@ -16,7 +16,7 @@ The purpose of this analysis is to predict credit risk through various machine l
 2. Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
  ## Random oversampler summary
-![image]https://github.com/Jrobinson3/Credit_risk_challenge/blob/main/Oversampling%20summary.png
+![image](https://github.com/Jrobinson3/Credit_risk_challenge/blob/main/Oversampling%20summary.png)
 1) the balanced accuracy score is 57.40% and it is considered low.
 2) the precision for prediction of fraudulent transaction is 1% and very low, however sensitivity (recall) for prediction of fraudulent activity is 45% and it is medium.   
 
